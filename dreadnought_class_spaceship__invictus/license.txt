@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dreadnought Class Spaceship : Invictus
+* source:	https://sketchfab.com/3d-models/dreadnought-class-spaceship-invictus-6dddee76221d4e9cba9dc3ab8a9e5649
+* author:	Rishav Gupta (https://sketchfab.com/Rishav_Gupta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dreadnought Class Spaceship : Invictus" (https://sketchfab.com/3d-models/dreadnought-class-spaceship-invictus-6dddee76221d4e9cba9dc3ab8a9e5649) by Rishav Gupta (https://sketchfab.com/Rishav_Gupta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
